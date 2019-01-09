@@ -1,0 +1,3 @@
+[submodule "tgmm-paper"]
+	path = tgmm-paper
+	url = https://nclack@bitbucket.org/fernandoamat/tgmm-paper.git
