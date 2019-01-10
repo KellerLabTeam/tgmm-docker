@@ -16,7 +16,7 @@ For more information see the references below.
 
 ## References
 
-[TGMM Repository](https://bitbucket.org/fernandoamat/tgmm-paper).  Refered to as a submodule here.
+[TGMM Repository](https://bitbucket.org/fernandoamat/tgmm-paper)
 
 McDole K, Guignard L, Amat F, Berger A, Malandain G, Royer LA, Turaga SC, Branson K, Keller PJ
 Cell. 2018 Oct 10;175(3):859-876. doi: [10.1016/j.cell.2018.09.031](http://doi.org/10.1016/j.cell.2018.09.031)
