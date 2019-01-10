@@ -2,7 +2,7 @@
 
 [![](https://images.microbadger.com/badges/version/nclack/tgmm:latest.svg)](https://cloud.docker.com/repository/docker/nclack/tgmm "Docker Hub")
 
-Automated DockerHub builds for the Tracking with Gaussian Mixtures (F. Amat et. al.) software developed in the [Keller lab](https://www.janelia.org/lab/keller-lab).
+Automated DockerHub builds for the TGMM (Tracking with Gaussian Mixture Models) software developed in the [Keller lab](https://www.janelia.org/lab/keller-lab).
 
 ## About
 
