@@ -4,11 +4,13 @@
 
 Automated DockerHub builds for the TGMM (Tracking with Gaussian Mixture Models) software developed in the [Keller lab](https://www.janelia.org/lab/keller-lab).
 
+`docker pull nclack/tgmm:latest`
+
 ## About
 
-This Dockerfile builds TGMM for environments based on nvidia/cuda containers.
+This Dockerfile builds TGMM for environments based on nvidia/cuda containers. Build products are installed to `/opt/tgmm`.
 
-Build products are installed to `/opt/tgmm`
+A multi-stage docker build is used.  By default grabbing the image will not download the build environment, but if you'd like you can target the 'builder' stage.
 
 For more information see the references below.
 
