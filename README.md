@@ -14,6 +14,11 @@ A multi-stage docker build is used.  By default grabbing the image will not down
 
 For more information see the references below.
 
+## Autobuild and this repository
+
+1. Any tags on this repository build corresponding tagged docker images.
+2. Different branches here correspond with Dockerfiles based on different nvidia/cuda containers.
+
 ## References
 
 [TGMM Repository](https://bitbucket.org/fernandoamat/tgmm-paper)
